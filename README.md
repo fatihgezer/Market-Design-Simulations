@@ -1,5 +1,7 @@
 # Market-Design-Simulations
-Intro to computer simulations of popular matching mechanisms with examples
+Intro to computer simulations of popular matching mechanisms with examples.
+
+By Fatih Gezer, fatih.gezer@bc.edu
 
 In this repository, I aim to give examples of how simulate infamamous matching algorithms in Python.
 I will try to organize the examples in a way that the complexity of the implementation gradually increases for introductory purposes. 
